@@ -81,7 +81,7 @@ public class ProductPage {
 
 			myWishList.click();
 			
-			
+			//test
 		}
 
 		
