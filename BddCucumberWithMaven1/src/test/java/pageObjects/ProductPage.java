@@ -80,7 +80,7 @@ public class ProductPage {
 			    		By.xpath("//a[@href=\"/hz/wishlist/ls?requiresSignIn=1&ref_=nav_AccountFlyout_wl\"]")));
 
 			myWishList.click();
-			
+		//test2	
 			//test
 		}
 
